@@ -1,4 +1,7 @@
 Neelanjan Chatterjee
 github tutorial
 Inserting text using vim 
-push it into the github 
+push it into the github
+Pull it from github
+Making some changes to and push it back
+
