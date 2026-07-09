@@ -31,7 +31,7 @@ class GraphProblem:
 
         for i in range(N):
             if dist[i] == float('inf'):
-                dist[i] = -1
+                dist[i] = -1.0
             
         return dist
         
